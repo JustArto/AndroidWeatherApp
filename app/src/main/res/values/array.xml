@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>London</item>
+        <item>Moscow</item>
+        <item>Yerevan</item>
+        <item>Berlin</item>
+        <item>Madrid</item>
+        <item>Tokyo</item>
+        <item>Los Angeles</item>
+        <item>Hong Kong</item>
+        <item>Rome</item>
+        <item>Barcelona</item>
+        <item>Osaka</item>
+        <item>Las Vegas</item>
+        <item>Shanghai</item>
+        <item>Pattaya</item>
+        <item>Amsterdam</item>
+        <item>Miami</item>
+        <item>Mecca</item>
+        <item>Prague</item>
+        <item>Mumbai</item>
+        <item>Shenzhen</item>
+        <item>Kuala Lumpur</item>
+        <item>New York City</item>
+        <item>Dubai</item>
+        <item>Paris</item>
+        <item>Singapore</item>
+        <item>Bangkok</item>
+        <item>Hong Kong</item>
+    </string-array>
+</resources>
